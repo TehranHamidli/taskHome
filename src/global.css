@@ -1,0 +1,10 @@
+/* .container{
+display: flex;
+} */
+
+.fixedButton{
+    position: absolute;
+    top: 5%;
+    /* left: 50%; */
+ 
+}
